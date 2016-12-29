@@ -1,12 +1,12 @@
 # Dominicks-Datawarehouse
-Folder Data - It contains all the data files from Dominick's Finer Foods used in this project.
+Source Data - It contains all the data files from Dominick's Finer Foods used in this project as in link below.
 Folder Study Proposal - It contains Study proposal and evaluating criteria.
 Folder Study Report - It contains the report of the Project.
 Folder Tableau - It contains images of the graphics created in tableau to answer business questions. 
 
 
 To run this project in a new environment, proceed as per below:
-1. Copy Source data in .csv format to your system 
+1. Copy Source data in .csv format to your system (https://research.chicagobooth.edu/~/media/5F29F56C65894FA194132DB8D36292B3.pdf)
 2. Run Create Database.sql
 3. Import source data as source tables in sql database that you just created
 4. Run CreateStagingTables.sql
